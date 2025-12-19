@@ -7,21 +7,6 @@ const inter = Inter({ subsets: ['latin'] });
 export const metadata: Metadata = {
   title: "Bio Links App",
   description: "Bio Links app",
-  openGraph: {
-    images: [
-      {
-        url: 'https://bolt.new/static/og_default.png',
-      },
-    ],
-  },
-  twitter: {
-    card: 'summary_large_image',
-    images: [
-      {
-        url: 'https://bolt.new/static/og_default.png',
-      },
-    ],
-  },
 };
 
 export default function RootLayout({
