@@ -41,7 +41,7 @@ export default function PrivacyPage() {
             سياسة الخصوصية
           </h1>
           <p className="text-lg text-white text-pretty">
-            آخر تحديث ديسمبر 2025
+            آخر تحديث نوفمبر 2025
           </p>
         </div>
 
