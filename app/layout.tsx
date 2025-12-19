@@ -26,7 +26,9 @@ export default function RootLayout({
             gtag('js', new Date());
             gtag('config', 'AW-16965660139');
           `}
-        </Script></head>
+        </Script>
+      <meta name="google-site-verification" content="ZHjwAqUy9CxIJO1Girknaq6wzeYyBKnDstOi9NLrF0s" />
+      </head>
       <body className={inter.className}>{children}</body>
     </html>
   );
