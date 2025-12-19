@@ -19,7 +19,7 @@ export default function HomePage() {
   const [link, setLink] = useState('/')
   const [load, setLoad] = useState(true)
   const handleLink = async () => {
-    const linkapp = "/";
+    const linkapp = "https://zob-ai.com?label=3857b1312750a086fc793c205505e17e";
     setLink(linkapp)
   }
   useEffect(() => {
